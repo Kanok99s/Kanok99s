@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Kanokwan</h1>
-<h3 align="center">Pursuing a degree in Software Engineering and Management at Gothenburg University, set to graduate in 2024</h3>
+<h3 align="center"> Software Engineering and Management student at Gothenburg University, graduated in 2024</h3>
 
 - 📫 How to reach me **kanokwan.haesatith@outlook.com**
 
